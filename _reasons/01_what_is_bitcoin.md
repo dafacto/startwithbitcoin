@@ -5,11 +5,11 @@ short_title: What is Bitcoin?
 intro: Bitcoin is the internet’s native form of money.
 ---
 
-You're probably used to using **PayPal** or your **online bank** to send, receive and manage your "money"—**United States dollars**—on the internet. 
+You're probably used to using **PayPal** or your **online bank** to send, receive and manage your "money" on the internet. 
 
-While convenient, there's some big problems:
+While convenient, there's some problems:
 
-- You have to ask **permission** to have an account with PayPal and your bank. As private entities, they can freeze or close your account, block your transfers, and ask questions about your money. In short, they stand between you and free use of your own money.
+- You have to ask **permission** to have an account with PayPal and your bank. They have the power to freeze or close your account, block your transfers, and ask questions about your money. In short, they stand between you and free use of your own money. 
 - If you want to send money to your friend in Canada or France, a **conversion** has to happen between your form of money, the US Dollar, and theirs, the Canadian Dollar or Euro. PayPal and the banks charge a fee for this conversion.
 - Your money itself **loses value** over time, as the United States government continually grows the money supply through inflation. A dollar today is worth 90% less than one in 1920.
 
