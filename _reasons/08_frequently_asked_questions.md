@@ -12,4 +12,4 @@ Absolutely not! Remember in the early days of the personal PC, people built thei
 
 ### Is “Bitcoin Cash” the same thing as Bitcoin?
 
-No, it's completely different. Since Bitcoin is "open source software", anyone can copy it anytime—and in fact, many have! I could copy the Bitcoin software today, and call it Mattcoin. But Mattcoin wouldn't have any value, unless someone were willing to pay for it. 
+No, it's completely different. Since Bitcoin is "open source software", anyone can copy it anytime—and in fact, many have! I could copy the Bitcoin software today, and call it Mattcoin. But Mattcoin wouldn't have any value, unless someone were willing to pay for it. In the early days of Bitcoin, a group copied it and called it Bitcoin Cash, but as you can see from its price, it never gained the popularity of the original Bitcoin. 
