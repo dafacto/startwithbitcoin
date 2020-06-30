@@ -5,6 +5,10 @@ short_title: Frequently Asked Questions
 intro: Now that you know the basics, let’s answer some of the most frequently asked questions.
 ---
 
+### Where can I learn more?
+
+We keep a [curated list of resources here.](/resources.html)
+
 ### Do I need to understand the technology to use Bitcoin?
 
 Absolutely not! Remember in the early days of the personal PC, people built their own computers, and talked about CPUs, RAM and serial interfaces? Today, you just switch on your MacBook or iPhone. In a similar way, we're still in the early phases of Bitcoin, and most of the people involved are techies. Don't let that stop you from getting involved!

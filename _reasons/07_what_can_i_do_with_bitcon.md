@@ -12,4 +12,4 @@ Here are some of the most popular things people do with bitcoin:
 - **Buy things** — Bitcoin was created to be digital money, and since its invention in 2011, a growing number of businesses accept Bitcoin as payment, for everything from coffees and haircuts, to properties and tax payments in certain places!
 - **Earn interest** — Over the past few years, a number of companies have started providing Bitcoin savings accounts. You deposit your bitcoin, and receive regular interest payments—sometimes up to 5%—paid in bitcoin! A great option is [Crypto.com](https://crypto.com/), and if you use my referral code `gpd9q473d2` you'll receive $50 on your first transaction.
 
-Now that you know all the basics, let's look at some [frequently asked questions. →](/bitcoin-faqs.html)
+Now that you know all the basics, you can review some [frequently asked questions](/bitcoin-faqs.html), [check out some resources](/resources.html), or [get started with Bitcoin. →](/get-started.html)
