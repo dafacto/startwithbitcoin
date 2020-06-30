@@ -10,6 +10,6 @@ intro: Bitcoin has a number of characteristics that make it unique!
 - **Portability.** Traveling with $1 million dollars of bitcoin on your phone is just as easy as traveling with $15 of bitcoin. The same can't be said about sacks of US dollars or heavy bars of gold.
 - **Divisibility.** A single bitcoin can be divided into units of 100 million! If a single bitcoin was worth $1 million, you could still send somebody one cent of value in bitcoin.
 - **Impossible to counterfeit.** It is mathematically impossible to counterfeit a bitcoin. When your wallet confirms that you have received some bitcoin, you can be sure you've received that bitcoin.
-- **Sovereign.** Most important of all — nobody in the world owns or controls Bitcoin. It is a technology that exists on the internet, just like email. You don't have to ask anybody's permission to own and use Bitcoin, and nobody can stop you. A bank can freeze your dollars, but nobody can freeze your bitcoin!
+- **Sovereign.** Most important of all — nobody in the world owns or controls Bitcoin. It is a technology that exists on the internet, just like email. You don't have to ask permission to own and use Bitcoin, and nobody can stop you. A bank can freeze your dollars, but nobody can freeze your bitcoin!
 
 Let's look at the question everybody has, [what's bitcoin worth? →](/what-is-bitcoin-worth.html)
