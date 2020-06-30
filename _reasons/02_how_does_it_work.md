@@ -15,6 +15,6 @@ You understand how **email** works.
 - You can install a **Bitcoin wallet** on your computer or phone. (We’ll recommend a few later.) That wallet communicates with the internet to send and receive bitcoin, and stores your bitcoin on your computer or phone. You have more privacy, but if your device crashes—or gets hacked—and you don't have a backup, your bitcoin is lost.
 - You can use an **online service** that you access through a web browser like Safari. (We’ll recommend a few later.) The online service communicates with the internet to send and receive your bitcoin, and they store your bitcoin for you. You have less privacy, but if your device crashes, your bitcoin at the online service is still safe. If the online service crashes, is hacked, or simply decides to run off with your money, your bitcoin will be lost.
 
-So a fundamental choices is whether to trust the security of your bitcoin to yourself, or an organization that can be thought of as a "Bitcoin bank"—or a combination of the two.
+So a fundamental choice is whether to trust the security of your bitcoin to yourself, or an organization that can be thought of as a "Bitcoin bank"—or a combination of the two.
 
 Let's now look at [what's special about Bitcoin. →](/what-is-special-about-bitcoin.html)
