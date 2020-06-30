@@ -1,6 +1,6 @@
 ---
 permalink: should-i-buy-bitcoin.html
-title: Should I buy some Bitcoin?
+title: Should I buy some bitcoin?
 intro: That’s up to you, but here is how some of the world’s most successful people answer that question.
 ---
 

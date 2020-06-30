@@ -13,8 +13,8 @@ You’re probably used to using **PayPal** or your **online bank** to send, rece
 
 **Bitcoin** is the internet's native form of money, and solves these problems. 
 
-- **It's permissionless.** Just like email, anyone can access and use it, but nobody owns or controls it. Nobody can stop you from owning and using Bitcoin.
-- **It's global.** Bitcoin is a worldwide currency. Just like email, you can send Bitcoin  as fast and freely to someone in Japan, as to your neighbor next door.
-- **It has a limited supply.** By technical design, there will never be more than 21 million Bitcoins. In this way, Bitcoin should hold its value more like gold, than a national currency like the US dollar.
+- **It's permissionless.** Just like email, anyone can access and use it, but nobody owns or controls it. Nobody can stop you from owning and using bitcoin.
+- **It's global.** Bitcoin is a worldwide currency. Just like email, you can send bitcoin  as fast and freely to someone in Japan, as to your neighbor next door.
+- **It has a limited supply.** By technical design, there will never be more than 21 million bitcoins. In this way, bitcoin should hold its value more like gold, than a national currency like the US dollar.
 
 Let's now see [how Bitcoin works. →](/how-does-bitcoin-work.html)
