@@ -9,7 +9,7 @@ Once you decide to buy some bitcoin, the main question is whether to entrust the
 **Professional options** — These allow both buying *and* selling of bitcoin.
 
 - *Coinbase* — The most popular online option, where they store your bitcoin for you, is [Coinbase](https://www.coinbase.com). Once you create an account and link your bank account, you can transfer in dollars to buy bitcoin, and then transfer out dollars if you sell bitcoin.
-- *Crypto.com* — Another popular option is [Crypto.com](https://crypto.com/). Crypto.com is an app for iOS and Android that lets you buy bitcoin with bank transfer or credit card. They also allows you to deposit your purchased bitcoin into a "savings account", earning weekly interest. (And if you use my referral code `gpd9q473d2` you'll receive $50 on your first transaction.)
+- *Crypto.com* — Another popular option is [Crypto.com](https://crypto.com/). Crypto.com is an app for iOS and Android that lets you buy bitcoin with bank transfer or credit card. (If you use my referral code `gpd9q473d2` you'll receive $50 on your first transaction.)
 
 **Do-it-yourself options** — These allow you to buy bitcoin with credit card, but not sell.
 
