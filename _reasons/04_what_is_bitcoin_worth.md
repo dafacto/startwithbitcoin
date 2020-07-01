@@ -4,7 +4,7 @@ title: What is a bitcoin worth?
 intro: Just like all assets, Bitcoin is worth whatever the market decides it’s worth.
 ---
 
-Like any other asset, bitcoin's value continually fluctuates in the worldwide market of people buying and selling bitcoin. When it was invented in 2011, a bitcoin was worth nothing. At the time of this writing, one is worth about $9,000.
+Like any other asset, bitcoin's value continually fluctuates in the worldwide market of people buying and selling bitcoin. When it was invented in 2009, a bitcoin was worth nothing. At the time of this writing, one is worth about $9,000.
 
 **How valuable can a bitcoin become?** Nobody knows. But here are some estimates.
 
