@@ -10,7 +10,7 @@ Casares believes bitcoin will either go to zero, or over $1 million. His thinkin
 
 Given this "asymmetry of outcomes" Casares believes **most people should own a small amount of Bitcoin**.
 
-And remember, you don't have to buy an entire Bitcoin. You can buy as little as *one-hundred millionth* of a bitcoin—a unit called a "Satoshi", named after Bitcoin inventor Satoshi Nakamoto. 
+And remember, you don't have to buy a *whole bitcoin*. You can buy as little as *one-hundred millionth* of a bitcoin—a unit called a "Satoshi", named after Bitcoin inventor Satoshi Nakamoto. 
 
 So if you wanted to buy only $100 of Bitcoin, you can! 
 
