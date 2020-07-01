@@ -1,0 +1,1 @@
+[BlockFi](https://blockfi.com/?ref=2af7e511) (Global) — BlockFi allows its customers to buy and sell bitcoin via bank transfer, earn interest on bitcoin deposits, and use bitcoin as collateral for a US dollar loan.

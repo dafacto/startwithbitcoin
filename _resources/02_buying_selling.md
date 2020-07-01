@@ -1,7 +1,7 @@
 ---
 permalink: wallets-buying-selling.html
 title: Buying, Selling & Wallets
-short_title: Buying, Selling & Wallets
+short_title: Buying, selling & wallets
 intro: Suggested options for where to buy, sell and hold your bitcoin.
 ---
 
@@ -11,13 +11,13 @@ Remember that a fundamental choice is whether to trust the security of your bitc
 
 Most businesses that let you buy and sell bitcoin, also provide wallet services, allowing you to store, send and receive bitcoin.
 
-- [Crypto.com](https://crypto.com) (Global) — Crypto.com, an app for iOS and Android, allows you to buy and sell bitcoin, using bank transfer and credit card. They also have an interest earning savings account, a debit card allowing you to spend your bitcoin anywhere Visa is accepted, and allow you to use your bitcoin as collateral for a loan! If you use my referral code <code>gpd9q473d2</code> you'll receive $50 on your first transaction.
+- {% include resource-cryptocom.md %}
 
 - [Cash App](https://cash.app) (USA) — Cash App, an app for iOS and Android, is one of the most popular and easy options in the United States, for purchasing bitcoin.
 
 - [Swan Bitcoin](https://www.swanbitcoin.com) (USA) — Swan Bitcoin is a great option for building up some bitcoin over time. Link the app to your bank account, and turn on recurring purchases.
 
-- [BlockFi](https://blockfi.com/?ref=2af7e511) (Global) — BlockFi is a US-regulated company that allows you to buy and sell bitcoin via bank transfer, earn interest, and use your bitcoin as collateral for a loan.
+- {% include resource-blockfi.md %}
 
 - [Coinbase](https://www.coinbase.com) (Global) — Coinbase is a popular option for buying and selling bitcoin. Once you create an account and link your bank account, you can transfer in dollars to buy bitcoin, and then transfer out dollars if you sell bitcoin.
 
