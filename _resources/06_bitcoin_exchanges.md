@@ -17,6 +17,10 @@ Although we provide several simpler buying options here in the resources, we als
 
 - [Crypto.com Exchange](https://crypto.com/exchange) (Global) — One of the newest exchanges is provided by Crypto.com, and includes frequent promotions for their customers.
 
+- [OKCoin](https://www.okcoin.com) (Global) — One of the oldest, and most trusted exchanges, with a focus on user experience.
+
+
+
 {% include suggestions.html %}
 
 
