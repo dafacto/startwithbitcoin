@@ -45,6 +45,12 @@ defaults:
   -
     scope:
       path: ""
+      type: resources
+    values:
+      layout: "resources-category"
+  -
+    scope:
+      path: ""
     values:
       layout: "default"
 
