@@ -1,7 +1,7 @@
 ---
-permalink: resource1.html
-title: What is Bitcoin?
-short_title: What is Bitcoin?
+permalink: where-to-buy-and-sell-bitcoin.html
+title: Buying & selling Bitcoin
+short_title: Buying & selling Bitcoin
 intro: Bitcoin is the internet’s native form of money.
 ---
 
