@@ -13,7 +13,7 @@ Although we provide several simpler buying options here in the resources, we als
 
 - [Binance](https://www.binance.com) (Global) — Binance is the world's largest cryptocurrency exchange, by a long shot!
 
-- [Binance US](http://binance.us) (USA) — Binance US is American arm of the global Binance organization. This exchange allows US citizens to be customers.
+- [Binance US](http://binance.us) (USA) — Binance US is the American arm of the global Binance organization. This exchange allows US citizens to be customers.
 
 - [Crypto.com Exchange](https://crypto.com/exchange) (Global) — One of the newest exchanges is provided by Crypto.com, and includes frequent promotions for their customers.
 
