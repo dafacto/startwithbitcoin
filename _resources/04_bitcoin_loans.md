@@ -1,11 +1,15 @@
 ---
-permalink: earning-interest-with-bitcoin.html
-title: Earning interest with Bitcoin
-short_title: Earning interest with Bitcoin
-intro: A list of businesses who pay interest on deposited bitcoin, just like a traditional savings account.
+permalink: bitcoin-loans.html
+title: Get a loan with Bitcoin
+short_title: Get a loan with Bitcoin
+intro: A list of businesses who allow you to get US dollar loans, using bitcoin as collateral.
 ---
 
-In recent years, a number of businesses have emerged that offer something similar to a traditional savings account. You deposit bitcoin, and they pay you interest in bitcoin! When deciding whether to use these services, keep in mind that they, in turn, lend out your bitcoin to earn interest required to pay you! So there's risk involved.
+In recent years, a number of businesses have emerged that allow you to deposit bitcoin as collateral, and receive a US dollar loan. 
+
+To understand how these work, here's an example: 
+
+> Say you want a loan of $10,000. These organizations would require you to deposit, say, $20,000 worth of bitcoin as collateral. If the price of bitcoin drops during your loan term, to say, $15,000, you would be asked to deposit more bitcoin to bring the "Loan-to-Value" ratio back to 50%. And if you were unable to do that, they would sell your bitcoin in order to repay your debt obligation.
 
 - [Crypto.com](https://crypto.com) (Global) — Crypto.com, an app for iOS and Android, allows you to buy and sell bitcoin, using bank transfer and credit card. They also have an interest earning savings account, a debit card allowing you to spend your bitcoin anywhere Visa is accepted, and allow you to use your bitcoin as collateral for a loan! If you use my referral code <code>gpd9q473d2</code> you'll receive $50 on your first transaction.
 

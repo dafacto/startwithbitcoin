@@ -5,11 +5,9 @@ short_title: Buying, Selling & Wallets
 intro: Suggested options for where to buy, sell and hold your bitcoin.
 ---
 
-Remember that a fundamental choice is whether to trust the security of your bitcoin to yourself, or to an organization that can be thought of as a "Bitcoin bank"—or a combination of the two. 
+Remember that a fundamental choice is whether to trust the security of your bitcoin to yourself, or to an organization that can be thought of as a "Bitcoin bank". Even though these businesses are technically not "banks", we'll use that term to differentiate between them and the do-it-yourself options.
 
-Even though they are not technically "banks", we'll use that term to differentiate between the do-it-yourself options.
-
-### Bitcoin Banks
+### Bitcoin banks
 
 Most businesses that let you buy and sell bitcoin, also provide wallet services, allowing you to store, send and receive bitcoin.
 
