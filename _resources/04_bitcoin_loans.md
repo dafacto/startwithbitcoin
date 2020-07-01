@@ -1,7 +1,7 @@
 ---
 permalink: bitcoin-loans.html
 title: Get a loan with Bitcoin
-short_title: Get a loan with Bitcoin
+short_title: Get a loan with bitcoin
 intro: A list of businesses who allow you to get US dollar loans, using bitcoin as collateral.
 ---
 

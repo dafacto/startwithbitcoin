@@ -1,7 +1,7 @@
 ---
 permalink: earning-interest-with-bitcoin.html
-title: Earning interest with Bitcoin
-short_title: Earning interest with Bitcoin
+title: Earning interest with bitcoin
+short_title: Earning interest with bitcoin
 intro: A list of businesses who pay interest on deposited bitcoin, just like a traditional savings account.
 ---
 

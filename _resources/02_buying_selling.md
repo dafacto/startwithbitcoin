@@ -1,6 +1,6 @@
 ---
 permalink: wallets-buying-selling.html
-title: Buying, Selling & Wallets
+title: Buying, selling & wallets
 short_title: Buying, selling & wallets
 intro: Suggested options for where to buy, sell and hold your bitcoin.
 ---
