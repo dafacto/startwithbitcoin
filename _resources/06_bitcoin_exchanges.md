@@ -5,9 +5,9 @@ short_title: Bitcoin exchanges
 intro: A list of marketplaces where bitcoin is bought and sold by traders.
 ---
 
-During the initial years, bitcoin was bought and sold in marketplaces similar to brokerage accounts, using order types like "limit" and "market". Definitely not for the novices, and most relevant to those who plan to buy and sell every frequently.
+Exchanges can be thought of as the online brokerages of the bitcoin world, used by people and businesses who tend to trade frequently, and need sophisticated purchase and selling mechanisms like "limit" and "stop loss" order types. 
 
-Although we provide several simpler buying options here in the resources, we also provide a list of some of the more popular exchanges here.
+For the average person, the simpler options may be preferable, but for the curious, here's a list of the largest and most trusted exchanges.
 
 - [Kraken](https://www.kraken.com) (Global) — Kraken was one of the earliest exchanges, has one of the most usable interfaces, and is considered by many one of the most trusted in terms of security.
 

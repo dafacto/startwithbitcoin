@@ -2,10 +2,10 @@
 permalink: bitcoin-debit-credit-cards.html
 title: Bitcoin debit & credit cards
 short_title: Bitcoin debit & credit cards
-intro: A list of businesses who allow you to spend your bitcoin anywhere Visa or Mastercard is accepted, using a debit or credit card.
+intro: Businesses who allow you to spend your bitcoin anywhere Visa or Mastercard is accepted, using a debit or credit card.
 ---
 
-In recent years, a number of businesses have emerged that allow you to spend your bitcoin anywhere that Visa or Mastercard is accepted, using a debit or credit card. Some even pay cashback in bitcoin! 
+These businesses issue debit cards, allowing their customers to spend bitcoin wherever Visa or Mastercard is accepted around the world. Terms & conditions vary greatly among the options, and some even pay cashback in bitcoin!
 
 - {% include resource-cryptocom.md %}
 

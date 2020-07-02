@@ -2,10 +2,10 @@
 permalink: earning-interest-with-bitcoin.html
 title: Earning interest with bitcoin
 short_title: Earning interest with bitcoin
-intro: A list of businesses who pay interest on deposited bitcoin, just like a traditional savings account.
+intro: Businesses who pay interest on deposited bitcoin, just like a traditional savings account.
 ---
 
-In recent years, a number of businesses have emerged that offer something similar to a traditional savings account. You deposit bitcoin, and they pay you interest in bitcoin! When deciding whether to use these services, keep in mind that they, in turn, lend out your bitcoin to earn interest required to pay you! So there's risk involved.
+These businesses pay interest on deposited bitcoin, just like a savings account. In order to pay you interest, they in turn lend out your bitcoin to other businesses, and so there's risk involved.
 
 - {% include resource-cryptocom.md %}
 

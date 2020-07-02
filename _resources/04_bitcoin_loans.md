@@ -2,14 +2,12 @@
 permalink: bitcoin-loans.html
 title: Get a loan with Bitcoin
 short_title: Get a loan with bitcoin
-intro: A list of businesses who allow you to get US dollar loans, using bitcoin as collateral.
+intro: Businesses who allow you to get US dollar loans, using bitcoin as collateral.
 ---
 
-In recent years, a number of businesses have emerged that allow you to deposit bitcoin as collateral, and receive a US dollar loan. 
+These businesses allow you to deposit bitcoin as collateral, and receive a US dollar loan. Why would you want to do that? If you need dollars, but don't want to sell your bitcoin.
 
-To understand how these work, here's an example: 
-
-> Say you want a loan of $10,000. These organizations would require you to deposit, say, $20,000 worth of bitcoin as collateral. If the price of bitcoin drops during your loan term, to say, $15,000, you would be asked to deposit more bitcoin to bring the "Loan-to-Value" ratio back to 50%. And if you were unable to do that, they would sell your bitcoin in order to repay your debt obligation.
+How it works — These organizations typically require you to deposit bitcoin twice the value of the loan you need, and if the bitcoin price drops during the term of the loan, they'll ask you to deposit more, bringing the "loan-to-value" ratio back to 50%. If you can't deposit more, they'll sell your bitcoin collateral, in order to repay your debt obligation.
 
 - {% include resource-cryptocom.md %}
 
