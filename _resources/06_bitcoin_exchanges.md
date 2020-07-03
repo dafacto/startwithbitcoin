@@ -19,8 +19,6 @@ For the average person, the simpler options may be preferable, but for the curio
 
 - [OKCoin](https://www.okcoin.com/join?channelId=600006158) (Global) — One of the oldest, and most trusted exchanges, with a focus on user experience.
 
-
-
 {% include suggestions.html %}
 
 
