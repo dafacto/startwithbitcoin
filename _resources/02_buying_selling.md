@@ -27,7 +27,7 @@ Most bitcoin banks, also provide wallet services, allowing you to store, send an
 
 - {% include resource-blockfi.md %}
 
-- [River Financial](https://www.river.com) (USA) — River Financial provides its customers with the ability to link a bank account, and then buy and sell bitcoin. They also offer a secure wallet storage solution.
+- [River Financial](https://www.river.com) (USA) — River Financial provides its customers with the ability to link a bank account, and then buy, sell and store bitcoin.
 
 - [Coinbase](https://www.coinbase.com) (Global) — Coinbase was one of the first businesses allowing its customers to buy and sell bitcoin, via bank transfer. The downside of being perhaps the largest company, is that customer support can be very slow.
 
