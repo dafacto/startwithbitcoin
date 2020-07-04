@@ -27,6 +27,8 @@ Most bitcoin banks, also provide wallet services, allowing you to store, send an
 
 - {% include resource-blockfi.md %}
 
+- [River Financial](https://www.river.com) (USA) — River Financial provides its customers with the ability to link a bank account, and then buy and sell bitcoin. They also offer a secure wallet storage solution.
+
 - [Coinbase](https://www.coinbase.com) (Global) — Coinbase was one of the first businesses allowing its customers to buy and sell bitcoin, via bank transfer. The downside of being perhaps the largest company, is that customer support can be very slow.
 
 - [Revolut](https://revolut.com/referral/frankl52t) (Global) — Revolut, for iOS and Android, is hugely popular worldwide, providing accounts in USD, GBP and Euros, along with a debit card for spending. Recently, they added support for bitcoin! While a super simple way to buy bitcoin, it's important to know you have to leave the bitcoin in the Revolut app. You can sell it anytime, but you can't transfer it out to another Bitcoin wallet.
