@@ -21,13 +21,13 @@ Most bitcoin banks, also provide wallet services, allowing you to store, send an
 
 - {% include resource-cryptocom.md %}
 
+- [River Financial](https://www.river.com) (USA) — River Financial is a Bitcoin-only financial services firm, allowing its customers to buy, sell, track and use their bitcoin. Exclusively supporting Bitcoin, and focused on ease-of-use, River is an ideal option for first-time Bitcoiners.
+
 - [Cash App](https://cash.app) (USA) — Cash App, for iOS and Android, is one of the most popular and easy options in the United States, for purchasing bitcoin.
 
 - [Swan Bitcoin](https://www.swanbitcoin.com) (USA) — Swan Bitcoin focuses on accumulating bitcoin, little by little, over time. Link the app to your bank account, and turn on recurring purchases.
 
 - {% include resource-blockfi.md %}
-
-- [River Financial](https://www.river.com) (USA) — River Financial provides its customers with the ability to link a bank account, and then buy, sell and store bitcoin.
 
 - [Coinbase](https://www.coinbase.com) (Global) — Coinbase was one of the first businesses allowing its customers to buy and sell bitcoin, via bank transfer. The downside of being perhaps the largest company, is that customer support can be very slow.
 
