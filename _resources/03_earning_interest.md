@@ -9,8 +9,8 @@ These businesses pay interest on deposited bitcoin, just like a savings account.
 
 - {% include resource-cryptocom.md %}
 
-- {% include resource-blockfi.md %}
+- {% include resource-ledn.md %}
 
-- {% include resource-nexo.md %}
+- {% include resource-blockfi.md %}
 
 {% include suggestions.html %}

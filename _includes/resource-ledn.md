@@ -1,0 +1,1 @@
+[Ledn](https://platform.ledn.io/join/4cfb36fb1c1968e65d50871ff5fc84b7) (Global) — Ledn provides its customers with Bitcoin and USDC savings accounts that earn a high rate of interest, as well US dollar loans using crypto as collateral.
