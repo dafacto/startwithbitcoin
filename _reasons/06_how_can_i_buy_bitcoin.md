@@ -8,6 +8,8 @@ Today, there are many great options for **buying and selling bitcoin**, convenie
 
 Here are some things to keep in mind:
 
+- *You don’t have to buy an entire bitcoin!* Don’t get thrown off by the price. If you want to buy $100 of bitcoin, that’s perfectly possible!
+
 - Most businesses that allow you to buy and sell bitcoin, also provide a *wallet service*, allowing you to store, send and receive bitcoin. Some will even pay you interest on your bitcoin, just like a savings account!
 
 - When you store your bitcoin with someone else, you're entrusting them with the security of your bitcoin. Always remember that you have the option of controlling some or all of your bitcoin yourself, by installing your own wallet software on your phone or computer.
