@@ -21,6 +21,8 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
+					<script async defer src="https://sa.startwithbitcoin.org/latest.js"></script> 
+<noscript><img src="https://sa.startwithbitcoin.org/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
         </body>
       </Html>
     );
