@@ -13,4 +13,4 @@ Congratulations if you now own some bitcoin! Here are some things you can do wit
 - **Earn interest** — Over the past few years, a number of companies have started providing Bitcoin savings accounts. You deposit your bitcoin, and receive regular interest payments—sometimes up to 5%—paid in bitcoin! We provide a [few options here](/resources).
 - **Get a loan** — Some companies allow you to deposit bitcoin, and use it as collateral for a US dollar loan. We provide a [few options here](/resources).
 
-Now that you know all the basics about Bitcoin, you can see some [frequently asked questions](/bitcoin-faqs/), [check out some resources](/resources), or [get started with Bitcoin today!](/get-started/)
+Now that you know all the basics about Bitcoin, you can see some [frequently asked questions](/bitcoin-faqs/), [check out some resources](/resources), or [get started with Bitcoin today!](/resources)
