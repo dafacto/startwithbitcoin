@@ -16,7 +16,7 @@ Absolutely not! Remember in the early days of the personal PC, people built thei
 
 ### What if I want to know how it works, technically?
 
-You really want to know? OK, we've added a [technology explainer here](/tech.html).
+You really want to know? OK, we've added a [technology explainer here](/tech/).
 
 ### I've heard Bitcoin is not the only "cryptocurrency"
 
@@ -34,4 +34,4 @@ To make sure you buy the right thing, the symbol for the original Bitcoin is "BT
 
 ### I've still got some questions.
 
-Feel free to [reach out](/about.html), and I'll try my best to help.
+Feel free to [reach out](/about/), and I'll try my best to help.

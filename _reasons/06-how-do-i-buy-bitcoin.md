@@ -22,4 +22,4 @@ Here are some things to keep in mind:
 
 - You might hear people talking about "Bitcoin Exchanges", like Binance or Kraken. These are marketplaces where trading happens, similar to how stocks are traded in brokerage accounts. For someone who wants to just buy and hold Bitcoin, the simpler options are probably preferable.
 
-Once you own some bitcoin, let's look at [what you can do with it. →](/what-can-i-do-with-my-bitcoin.html)
+Once you own some bitcoin, let's look at [what you can do with it. →](/what-can-i-do-with-my-bitcoin/)

@@ -16,4 +16,4 @@ And remember, you don't have to buy a _whole bitcoin_. You can buy as little as 
 
 So if you wanted to buy only $100 of Bitcoin, you can!
 
-Let's now look at [ways to buy Bitcoin. →](/how-do-i-buy-bitcoin.html)
+Let's now look at [ways to buy Bitcoin. →](/how-do-i-buy-bitcoin/)

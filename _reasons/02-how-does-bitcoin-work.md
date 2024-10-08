@@ -18,4 +18,4 @@ You understand how **email** works.
 
 So a fundamental choice is whether to trust the security of your bitcoin to yourself, or an organization that can be thought of as a "Bitcoin bank"—or a combination of the two.
 
-Let's now look at [what's special about Bitcoin. →](/what-is-special-about-bitcoin.html)
+Let's now look at [what's special about Bitcoin. →](/what-is-special-about-bitcoin/)

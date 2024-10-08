@@ -14,4 +14,4 @@ type: reason
 - **Impossible to counterfeit.** It is mathematically impossible to counterfeit a bitcoin. When your wallet confirms that you have received some bitcoin, you can be sure you've received that bitcoin.
 - **Sovereign.** Most important of all — nobody in the world owns or controls Bitcoin. It is a technology that exists on the internet, just like email. You don't have to ask permission to own and use Bitcoin, and nobody can stop you. A bank can freeze your dollars, but nobody can freeze your bitcoin!
 
-Now for the question on everyone's mind, [what's bitcoin worth? →](/what-is-bitcoin-worth.html)
+Now for the question on everyone's mind, [what's bitcoin worth? →](/what-is-bitcoin-worth/)

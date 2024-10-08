@@ -1,0 +1,25 @@
+{
+  "name": "startwithbitcoin",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@hashicorp/remark-plugins": "^3.1.1",
+    "classnames": "^2.3.1",
+    "gray-matter": "^4.0.3",
+    "next": "^12.3.4",
+    "next-seo": "^4.24.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "remark": "^13.0.0",
+    "remark-html": "^13.0.1"
+  },
+  "devDependencies": {
+    "prop-types": "^15.8.1",
+    "sass": "^1.32.11"
+  }
+}

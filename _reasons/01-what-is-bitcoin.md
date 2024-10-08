@@ -18,4 +18,4 @@ You’re familiar with using **PayPal** or your **online bank** to send, receive
 - **It's global.** Bitcoin is a worldwide currency. Just like email, you can send bitcoin as fast and freely to someone in Japan, as to your neighbor next door.
 - **It has a limited supply.** By design, there will never be more than 21 million bitcoins.
 
-Let's now explore [how Bitcoin works. →](/how-does-bitcoin-work.html)
+Let's now explore [how Bitcoin works. →](/how-does-bitcoin-work/)
