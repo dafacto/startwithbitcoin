@@ -10,7 +10,7 @@ Exchanges can be thought of as the online brokerages of the bitcoin world, used 
 
 For the average person, the simpler options may be preferable, but for the curious, here's a list of the largest and most trusted exchanges.
 
-- [Kraken](https://r.kraken.com/V1133) (Global) — Kraken was one of the earliest exchanges, has one of the most usable interfaces, and is considered by many one of the most trusted in terms of security.
+- [Kraken](https://kraken.com/) (Global) — Kraken was one of the earliest exchanges, has one of the most usable interfaces, and is considered by many one of the most trusted in terms of security.
 
 - [Binance](https://www.binance.com/en/register?ref=23927265) (Global) — Binance is the world's largest cryptocurrency exchange, by a long shot!
 
