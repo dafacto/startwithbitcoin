@@ -45,7 +45,7 @@ const About = () => {
             </p>
             <p>
               You can learn more about me{' '}
-              <a href='https://matthenderson.me'>at my personal site</a>, find
+              <a href='https://dafacto.com'>at my personal site</a>, find
               me <a href='http://twitter.com/dafacto'>on Twitter</a>, or{' '}
               <a
                 href='mailto:hello@startwithbitcoin.org?subject=I have a question about Bitcoin'
@@ -54,13 +54,6 @@ const About = () => {
                 send an email
               </a>
               .
-            </p>
-            <p>
-              For anyone interested in donating to the effort of maintaining
-              this resource:{' '}
-              <a href='bitcoin:bc1qkpwc8jwjpgmee72enuq4cze8pgwqwfqy6wt3gh'>
-                bc1qkpwc8jwjpgmee72enuq4cze8pgwqwfqy6wt3gh
-              </a>
             </p>
             <p>
               Just in case it’s necessary, this entire site is copyright{' '}
