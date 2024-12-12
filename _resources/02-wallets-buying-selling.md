@@ -38,7 +38,7 @@ For those wanting to take self-control of their bitcoin security, here are some 
 
 - [Blue Wallet](https://bluewallet.io) — Blue Wallet, for iOS and Android, allows buying of bitcoin with a credit card. Since it only stores bitcoin, and no other cryptocurrencies, its user interface is simple and easy to use.
 
-- [Ledger Hardware Wallet](https://shop.ledger.com/?r=9be4f2a7e990) — For the highest level of do-it-yourself security, you might look into a “hardware wallet”, such as a device from Ledger. It pairs with the Ledger Live desktop computer software, and allows you to buy bitcoin. A steep learning curve, but very high security.
+- @include "resource-ledger.md"
 
 - @include "resource-sparrow.md"
 
