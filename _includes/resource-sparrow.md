@@ -1,0 +1,1 @@
+[Sparrow](https://sparrowwallet.com) — Sparrow is one of the most popular and powerful open-source Bitcoin wallets. While the Sparrow user interface can appear daunting to new users, it's probably the most feature-rich free and open-source Bitcoin wallets on the market, offering support for pretty much every type of Bitcoin wallet, including multi-signature.

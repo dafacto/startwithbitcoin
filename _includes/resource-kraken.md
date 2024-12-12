@@ -1,0 +1,1 @@
+[Kraken](https://kraken.com/) (Global) — Kraken is one of the oldest and most trusted crypto exchanges, known for both their great user experience, and customer support.

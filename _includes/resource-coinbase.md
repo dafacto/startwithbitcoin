@@ -1,0 +1,1 @@
+[Coinbase](https://www.coinbase.com) (Global) — Coinbase was one of the first businesses allowing its customers to buy and sell bitcoin, via bank transfer. The downside of being perhaps the largest company, is that customer support can be very slow.

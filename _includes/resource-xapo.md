@@ -1,0 +1,1 @@
+[Xapo](https://xapo.com) (Global) — Xapo, founded by legendary Wences Casares, is both a licensed bank and a Bitcoin custodian, currently offering 1% interest on stored Bitcoin. It's a high-end service, though, charging over $1,000 to maintain an account.
