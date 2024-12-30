@@ -10,14 +10,14 @@ Exchanges can be thought of as the online brokerages of the bitcoin world, used 
 
 For the average person, the simpler options may be preferable, but for the curious, here's a list of the largest and most trusted exchanges.
 
-- [Kraken](https://kraken.com/) (Global) — Kraken was one of the earliest exchanges, has one of the most usable interfaces, and is considered by many one of the most trusted in terms of security.
+- @include "resource-kraken.md"
 
 - [Binance](https://www.binance.com/en/register?ref=23927265) (Global) — Binance is the world's largest cryptocurrency exchange, by a long shot!
 
 - [Binance US](http://binance.us) (USA) — Binance US is the American arm of the global Binance organization. This exchange allows US citizens to be customers.
 
-- [Crypto.com Exchange](https://crypto.com/exchange) (Global) — One of the newest exchanges is provided by Crypto.com, and includes frequent promotions for their customers.
+- @include "resource-nexo.md"
 
-- [OKCoin](https://www.okcoin.com/join?channelId=600006158) (Global) — One of the oldest, and most trusted exchanges, with a focus on user experience.
+- @include "resource-cryptocom.md"
 
 @include "suggestions.md"

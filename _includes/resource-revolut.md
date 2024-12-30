@@ -1,0 +1,1 @@
+[Revolut](https://revolut.com/referral/frankl52t) (Global) — Revolut, for iOS and Android, is hugely popular worldwide, providing accounts in USD, GBP and Euros, along with a debit card for spending. The app also supports the purchase and sale of Bitcoin.

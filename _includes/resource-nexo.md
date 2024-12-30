@@ -1,1 +1,1 @@
-[Nexo](https://www.nexo.io) (Global) — Nexo allows its customers to earn interest on deposited bitcoin, and use bitcoin as collateral for a US dollar loan.
+[Nexo](https://nexo.com/ref/2y6lfuk1xd?src=web-link) (Global) — Nexo allows its customers to buy, sell, earn interest on bitcoin, and use bitcoin as collateral for US dollar loans. They also offer a debit/credit card, which you top up using crypto.
